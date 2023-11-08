@@ -1,6 +1,6 @@
 GRUPOS COMISION 014:
 
-LINK A GRUPO DE WSP DONDE SE ORGINZAN LOS GRUPOS:
+LINK A GRUPO DE WSP DONDE SE ORGANIZAN LOS GRUPOS:
 https://chat.whatsapp.com/L5VXK4uxdLA0kRVo7W6vYq
 
 grupo 1: 
@@ -55,7 +55,7 @@ Matias Córdoba,
 Martina hijarrubia 
 Antonio pereyra
 
-REPO:
+REPO: https://github.com/ulwandle22/Grupo6-ArgProg-React2023
 
 Grupo 7:
 
