@@ -1,0 +1,17 @@
+.product-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.producto{
+    border: solid 1px black;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
