@@ -6,12 +6,16 @@ claribel merlo
  Santiago Garnier
 Octavio Lucardi Fierro
 
+REPO:https://github.com/OctavioLucardiFierro/Grupo1-ReactJS-ArgentinaPrograma2023
+
 Grupo 2:
 Andrés Morales
 Sebastián Kraus
 Alejandro Ayala
 Julian Bidone
 Idana Arnol
+
+REPO: https://github.com/sebakraus150/APGrupo2ReactJS.git
 
 grupo 3:
 Medina Gabriel
@@ -20,6 +24,7 @@ Mirko Wisner
 Rocio Velasquez
 Javier Frandi
 
+REPO:https://github.com/JavierFandi/Grupo_3-ReactJs-Argentina_Programa.git
 
 grupo 4: 
 Kevin Agustin Ruiz, 
@@ -28,12 +33,16 @@ Ezequiel Laureanoa,
 Angel Cutri, 
 Margar perdeilhan
 
+REPO: https://github.com/Jupiiteer/Grupo-4-Curso-React-JS
+
 grupo 5: 
 Franco Pierabella, 
 Néstor Gariglio, 
 Agustin Gimenez, 
 Benjamin Paez, 
 Ezequiel Zabala
+
+REPO: https://github.com/Francopierabella/Grupo5Arg-Programa-ReactJs-2023
 
 Grupo 6: 
 Matias Flores, 
@@ -42,10 +51,14 @@ Matias Córdoba,
 Martina hijarrubia 
 Antonio pereyra
 
+REPO:
+
 Grupo 7:
 
 Julian Cuk
 (estan los 4 pero faltan los nombres)
+
+REPO:
 
 GRUPO 8:
 
@@ -55,11 +68,15 @@ Joaquin Meneses
 Facundo Cugliari
 Maxi Romano
 
+REPO: https://github.com/JoaquinMeneses/Grupo8_ArgentinaPrograma
+
 grupo 9:
 
 Franco Pirolo
 Anabelle Alberto
 (estan los 3 pero faltan los nombres)
+
+REPO:
 
 grupo 10:
 
@@ -67,6 +84,11 @@ Alejo Pederiva
 Ignacio Gabriel Ulman
 Tobias Calzada
 Gonzalo Martin Haag
+
+REPO:
+
+8/11
+https://utn.zoom.us/rec/share/O2CrWtbLx9zWwR3-ix_WTYZIXrU3IwV0kKiQmbohHTk-UY5tBoL2lXhvD12nB2T2.Kqu-mYyTr3wzs9vs
 
 6/11
 https://utn.zoom.us/rec/share/ZpGMbpysc6fVJ6W4i9YHj0Vpc5epGdKp_oFyxDlGcpluE6IetFKGn52YwYN9xWzk.TugHaX1bEdqANUu_
@@ -77,3 +99,4 @@ https://utn.zoom.us/rec/share/Kfd6ZElNoc_MYfqYEirL_cn9DYv4nB1hTGvaExuDiY0k7erkF2
 
 30/10
 https://utn.zoom.us/rec/share/Kfd6ZElNoc_MYfqYEirL_cn9DYv4nB1hTGvaExuDiY0k7erkF2lhj-IWFEB7CQRy.i8LhsMQAfRNov6Yx
+
