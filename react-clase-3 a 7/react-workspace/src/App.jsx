@@ -17,14 +17,16 @@ function App() {
       extension: 'txt',
       peso: '2kb',
       fechaDeCreacion: '2022/03/08',
-      tipo: 'archivo'
+      tipo: 'archivo',
+      id: 0
     },
     {
       nombre: 'index',
       extension: 'html',
       peso: '50kb',
       fechaDeCreacion: '2023/04/01',
-      tipo: 'archivo'
+      tipo: 'archivo',
+      id: 1
     },
   ]
   return (  
@@ -33,7 +35,7 @@ function App() {
       <div className='product-container'>
         
         <Product nombre='tv samsung 40"' precio={450} estaComprado={true} esFavorito={false} comprar={comprar}/>
-        <Product estaComprado={false} esFavorito={true} comprar={comprar}/>
+        <Product estaComprado={false}  esFavorito={true} comprar={comprar} nombre={'pepe'}/>
 
 
       </div>
@@ -41,12 +43,7 @@ function App() {
         {
           archivos.map(
             (archivo) =>(
-              <div className='item'>
-                <h2>{archivo.nombre + '.' + archivo.extension}</h2>
-                <span>Peso: {archivo.peso}</span>
-                <span>Fecha de creacion: {archivo.fechaDeCreacion}</span>
-                <hr/>
-              </div>
+              <Item {...archivo} key={archivo.id}/>
             )
           )
         }
@@ -57,6 +54,18 @@ function App() {
 }
 
 export default App
+
+
+const Item = ({nombre, extension, fechaDeCreacion, peso}) => {
+  return (
+    <div className='item'>
+      <h2>{nombre + '.' + extension}</h2>
+      <span>Peso: {peso}</span>
+      <span>Fecha de creacion: {fechaDeCreacion}</span>
+      <hr />
+  </div>
+  )
+}
 
 /* Principio DRY dont repeat yourself */
 
