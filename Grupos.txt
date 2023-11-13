@@ -9,6 +9,7 @@ ARIEL AGUILAR
 claribel merlo
  Santiago Garnier
 Octavio Lucardi Fierro
+facundo
 
 REPO:https://github.com/OctavioLucardiFierro/Grupo1-ReactJS-ArgentinaPrograma2023
 
@@ -22,11 +23,11 @@ Idana Arnol
 REPO: https://github.com/sebakraus150/APGrupo2ReactJS.git
 
 grupo 3:
-Medina Gabriel
+
 Aldrovandi Romina
 Mirko Wisner
 Rocio Velasquez
-Javier Frandi
+Javier Frandi (?)
 
 REPO:https://github.com/JavierFandi/Grupo_3-ReactJs-Argentina_Programa.git
 
@@ -60,7 +61,10 @@ REPO: https://github.com/ulwandle22/Grupo6-ArgProg-React2023
 Grupo 7:
 
 Julian Cuk
-(estan los 4 pero faltan los nombres)
+Juan Ignacion Caceres, 
+Facundo Mosquera, 
+Kevin Marmolejo 
+Erick Rojas
 
 REPO:
 
@@ -70,15 +74,14 @@ Juan Ignacio Meynier
 Ignacio González
 Joaquin Meneses
 Facundo Cugliari
-Maxi Romano
+Maximiliano Romano
 
 REPO: https://github.com/JoaquinMeneses/Grupo8_ArgentinaPrograma
 
 grupo 9:
 
 Franco Pirolo
-Anabelle Alberto
-(estan los 3 pero faltan los nombres)
+(estan los 2 pero faltan los nombres) (?)
 
 REPO:
 
@@ -88,6 +91,13 @@ Alejo Pederiva
 Ignacio Gabriel Ulman
 Tobias Calzada
 Gonzalo Martin Haag
+Maximo Valfre
+
+grupo 11:
+
+Anabelle Alberto
+Facundo Matarazzo
+Enzo Farias
 
 REPO:
 
