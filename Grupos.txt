@@ -24,7 +24,6 @@ REPO: https://github.com/sebakraus150/APGrupo2ReactJS.git
 
 grupo 3:
 
-Aldrovandi Romina
 Mirko Wisner
 Rocio Velasquez
 Javier Frandi (?)
@@ -53,18 +52,18 @@ Grupo 6:
 Matias Flores, 
 Bruno del Canto, 
 Matias Córdoba, 
-Martina hijarrubia 
+Martina hijarrubia,
 Antonio pereyra
 
 REPO: https://github.com/ulwandle22/Grupo6-ArgProg-React2023
 
 Grupo 7:
 
-Julian Cuk
-Juan Ignacion Caceres, 
-Facundo Mosquera, 
-Kevin Marmolejo 
-Erick Rojas
+
+Juan Ignacio Caceres,  (Falta participar)
+Facundo Mosquera,  (Falta participar)
+Kevin Marmolejo  (Falta participar)
+Erick Rojas  (Falta participar)
 
 REPO:
 
@@ -80,24 +79,28 @@ REPO: https://github.com/JoaquinMeneses/Grupo8_ArgentinaPrograma
 
 grupo 9:
 
-Franco Pirolo
-(estan los 2 pero faltan los nombres) (?)
+Julian Cuk
+Gonzalo 
+Leo
+Franco Pirolo (Falta participar) SI no se presenta en la clase que viene va a ser del grupo 3
+Dante tripodi
+Romina Aldrovani
 
 REPO:
 
 grupo 10:
 
-Alejo Pederiva
-Ignacio Gabriel Ulman
+Alejo Pederiva 
+Ignacio Gabriel Ulman 
 Tobias Calzada
-Gonzalo Martin Haag
+Gonzalo Martin Haag (Falta participacion)
 Maximo Valfre
 
 grupo 11:
 
 Anabelle Alberto
 Facundo Matarazzo
-Enzo Farias
+Enzo Farias (falta participar)
 
 REPO:
 

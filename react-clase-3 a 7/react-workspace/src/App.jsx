@@ -1,14 +1,20 @@
-import React from 'react'
+import React, {useState} from 'react'
 import './index.css'
-import { Product, Header } from './components'
-
+import { Product, Header, Carta } from './components'
 
 function App() {
+  /* Solo se ejecuta en la primera carga del componente */
+  const [nombre, setNombre] = useState('jacinto')
   
   const saludar = () => 'hola'
-  let nombre = 'jacinto'
+ 
   const comprar = () =>{
     alert('comprado')
+  }
+
+  const handleChangeName = () => {
+    setNombre('pepe')
+    
   }
 
   const archivos = [
@@ -29,6 +35,10 @@ function App() {
       id: 1
     },
   ]
+  const [mostrar, setMostrar] = useState(true)
+  const handleChangeVisibility = () =>{
+    setMostrar(!mostrar)
+  }
   return (  
     <div>
       <Header/>
@@ -43,11 +53,19 @@ function App() {
         {
           archivos.map(
             (archivo) =>(
-              <Item {...archivo} key={archivo.id}/>
+              <Item {...archivo} key={archivo.id + archivo.nombre}/>
             )
           )
         }
       </div>
+      <h1>{nombre}</h1>
+      <button onClick={handleChangeName}>Cambiar nombre</button>
+
+      {mostrar && <div className='box'></div>}
+      <button onClick={handleChangeVisibility}>{mostrar ? 'ocultar': 'mostrar'}</button>
+
+      <Carta/>
+      <Carta/>
     </div>
     
   ) 
