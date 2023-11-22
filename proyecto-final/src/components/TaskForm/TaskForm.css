@@ -1,0 +1,40 @@
+.modal-background{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.44);
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.modal>form{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    width: 50vw;
+}
+
+.modal>form>.input-container{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.modal>form>.input-container>textarea{
+    height: 100px;
+}
+
+.controls-form{
+    display: flex;
+    justify-content: space-between;
+}

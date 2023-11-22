@@ -7,9 +7,9 @@ grupo 1:
 
 ARIEL AGUILAR
 claribel merlo
- Santiago Garnier
+ Santiago Garnier (?)
 Octavio Lucardi Fierro
-facundo
+facundo (?)
 
 REPO:https://github.com/OctavioLucardiFierro/Grupo1-ReactJS-ArgentinaPrograma2023
 
@@ -18,15 +18,16 @@ Andrés Morales
 Sebastián Kraus
 Alejandro Ayala
 Julian Bidone
-Idana Arnol
+Idana Arnol (!) NO ESTA PRESENTE(?)
 
-REPO: https://github.com/sebakraus150/APGrupo2ReactJS.git
+REPO: https://github.com/g0770/to-do-List
 
 grupo 3:
 
+Franco Pirolo (Falta participar) SI no se presenta en la clase que viene va a ser del grupo 3 (?)
 Mirko Wisner
 Rocio Velasquez
-Javier Frandi (?)
+Javier Frandi (?)(?)
 
 REPO:https://github.com/JavierFandi/Grupo_3-ReactJs-Argentina_Programa.git
 
@@ -59,7 +60,7 @@ REPO: https://github.com/ulwandle22/Grupo6-ArgProg-React2023
 
 Grupo 7:
 
-
+GRUPO SIN PRESENTARSE 1 vez
 Juan Ignacio Caceres,  (Falta participar)
 Facundo Mosquera,  (Falta participar)
 Kevin Marmolejo  (Falta participar)
@@ -82,7 +83,7 @@ grupo 9:
 Julian Cuk
 Gonzalo 
 Leo
-Franco Pirolo (Falta participar) SI no se presenta en la clase que viene va a ser del grupo 3
+
 Dante tripodi
 Romina Aldrovani
 
@@ -93,14 +94,14 @@ grupo 10:
 Alejo Pederiva 
 Ignacio Gabriel Ulman 
 Tobias Calzada
-Gonzalo Martin Haag (Falta participacion)
+Gonzalo Martin Haag (Falta participacion) (?)
 Maximo Valfre
 
 grupo 11:
 
 Anabelle Alberto
 Facundo Matarazzo
-Enzo Farias (falta participar)
+Enzo Farias (falta participar)(?)
 
 REPO:
 
